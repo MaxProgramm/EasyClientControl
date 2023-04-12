@@ -1,0 +1,6 @@
+name: EasyClientControl
+version: '${project.version}'
+main: de.maxprogramm.easyclientcontrol.EasyClientControl
+api-version: 1.19
+depend:
+  - LunarClient-API
